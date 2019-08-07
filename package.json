@@ -1,5 +1,5 @@
 {
-  "name": "Pagerduty2019Interview",
+  "name": "PagerdutyInterview2019",
   "version": "1.0.0",
   "description": "You are on a quest as an elusive chef/programmer to sample the abundance of international cuisine from all over the world. In order to document your adventure and not risk forgetting the names of various delicious meals, you decide to code an application to help keep track of them",
   "main": "src/server/index.js",
